@@ -1,0 +1,9 @@
+[build]
+  base = "blog-frontend"
+  publish = "build"
+  command = "npm run build"
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> 410ae97c18ee3f47e567523efeee81fefc603421
