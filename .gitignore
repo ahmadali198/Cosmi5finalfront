@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+.env
+
+# Logs
+logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# Editor folders
+.vscode/
+<<<<<<< HEAD
+.idea/
+=======
+<<<<<<< HEAD
+.idea/
+=======
+.idea/
+>>>>>>> b305750 (Initial commit of React frontend)
+>>>>>>> 410ae97c18ee3f47e567523efeee81fefc603421
