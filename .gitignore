@@ -16,12 +16,9 @@ build/
 
 # Editor folders
 .vscode/
-<<<<<<< HEAD
+
 .idea/
-=======
-<<<<<<< HEAD
-.idea/
-=======
-.idea/
->>>>>>> b305750 (Initial commit of React frontend)
->>>>>>> 410ae97c18ee3f47e567523efeee81fefc603421
+
+# Frontend and Backend node_modules (redundant safety)
+frontend/node_modules/
+backend/node_modules/
